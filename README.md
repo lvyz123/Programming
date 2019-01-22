@@ -1,2 +1,2 @@
 # Programming
-Record of Python and SQL programming experience and show-off of programming skills
+Record of Project Euler problem solving by Yizhou Lu.
